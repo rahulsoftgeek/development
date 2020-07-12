@@ -1,1 +1,2 @@
 hi this is a new logo
+this is a second line.
