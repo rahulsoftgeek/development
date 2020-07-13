@@ -1,3 +1,4 @@
 hi this is a new logo
 this is a second line.
 this 3rd line change done by master.
+this 3rd line change done by dev.
